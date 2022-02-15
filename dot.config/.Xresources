@@ -1,2 +1,5 @@
 urxvt*depth: 32
 urxvt*background: rgba:0000/0000/0200/c800
+urxvt*termname: rxvt
+urxvt*foreground: #cccccc
+urxvt*scrollBar: false
