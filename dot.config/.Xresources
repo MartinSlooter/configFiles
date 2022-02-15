@@ -3,3 +3,4 @@ urxvt*background: rgba:0000/0000/0200/c800
 urxvt*termname: rxvt
 urxvt*foreground: #cccccc
 urxvt*scrollBar: false
+urxvt*font: xft:Source Code Pro:size=11:antialias=true
